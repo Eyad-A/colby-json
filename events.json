@@ -1,0 +1,89 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "My Awesome Event",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis augue justo. Donec sit amet bibendum dui, quis ultrices diam. Nunc in facilisis ante. In vel nisi volutpat, maximus ligula non, viverra erat. Nam venenatis hendrerit metus, quis venenatis lacus pellentesque vel. Donec ullamcorper ut lorem ac suscipit. Pellentesque urna massa, finibus eu purus quis, fermentum tempor metus. Ut urna quam, accumsan id dui feugiat, feugiat tincidunt magna.",
+            "startDateTime": 1641049200,
+            "endDateTime": 1641052800,
+            "eventImage": "images/image_event1.jpg",
+            "hasRegistration": true,
+            "locationImage": "images/harold_alfond_stadium_map_event1.png",
+            "location": "Harold Alfond Stadium",
+            "eventContact": {
+                "name": "Office of Communications",
+                "address": "4000 Mayflower Hill, Waterville, Maine 04901",
+                "contactEmail": "communications@colby.edu",
+                "phone": "207-859-4000"
+            }
+        },
+        {
+            "id": 2,
+            "title": "My Superb Experience",
+            "description": "Proin fringilla interdum nulla at dapibus. Phasellus quis lacus nulla. Suspendisse consequat, augue eget viverra congue, nisl nisl ultricies sapien, vel aliquam metus metus nec ex. Proin id dapibus ex. Nulla vel massa in justo scelerisque dictum nec id ligula. Phasellus condimentum turpis sed facilisis ornare. Morbi aliquam pellentesque elit at sagittis.",
+            "startDateTime": 1641682800,
+            "endDateTime": 1641688200,
+            "eventImage": "images/image_event2.jpg",
+            "hasRegistration": true,
+            "locationImage": "images/mary_low_map_event2.png",
+            "location": "Mary Low",
+            "eventContact": {
+                "name": "Office of the President",
+                "address": "4010 Mayflower Hill, Waterville, Maine 04901",
+                "contactEmail": "president@colby.edu",
+                "phone": "207-859-4894"
+            }
+        },
+        {
+            "id": 3,
+            "title": "My Fantastic Occasion",
+            "description": "Integer nec interdum lorem. Aliquam auctor eros eros, id rhoncus diam tincidunt et. Maecenas bibendum efficitur fringilla. Nunc sit amet nibh sed ante vestibulum tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse tincidunt lacus lacus. Aenean at ultricies diam. Donec ullamcorper molestie ante. Aenean eleifend imperdiet urna, et bibendum mi bibendum vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer vel nulla odio.",
+            "startDateTime": 1641223800,
+            "endDateTime": 1641227400,
+            "eventImage": "images/image_event3.jpg",
+            "hasRegistration": false,
+            "locationImage": "images/olin_science_center_map_event3.png",
+            "location": "Olin Science Center",
+            "eventContact": {
+                "name": "Dean of the College",
+                "address": "4114 Mayflower Hill, Waterville, Maine 04901",
+                "contactEmail": "doc@colby.edu",
+                "phone": "207-859-1291"
+            }
+        },
+        {
+            "id": 4,
+            "title": "My Wonderful Moment",
+            "description": "Suspendisse tempor nibh vitae elit posuere, a gravida leo ullamcorper. Duis mattis magna nec vulputate rhoncus. Phasellus euismod scelerisque augue id fringilla. Mauris enim urna, eleifend quis ullamcorper sed, vehicula a ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla suscipit, lectus a scelerisque vestibulum, tortor justo dictum nunc, sit amet interdum magna lorem id neque. Maecenas eu porta erat. Nullam ac accumsan eros. Nunc ac felis elit. Nunc ac metus consectetur, dapibus erat eget, vehicula nunc. Etiam in tempor ligula.",
+            "startDateTime": 1642017600,
+            "endDateTime": 1642021200,
+            "eventImage": "images/image_event4.jpg",
+            "hasRegistration": true,
+            "locationImage": "images/lorimer_map_event4.png",
+            "location": "Lorimer Chapel",
+            "eventContact": {
+                "name": "Office of the Advancement",
+                "address": "4217 Mayflower Hill, Waterville, Maine 04901",
+                "contactEmail": "advancement@colby.edu",
+                "phone": "207-859-3990"
+            }
+        },
+        {
+            "id": 5,
+            "title": "My Glamourous Affair",
+            "description": "Sed dignissim quam id purus interdum ullamcorper. Phasellus eu ante at quam finibus iaculis in ac quam. Aenean mollis ante sit amet tortor fermentum, at porttitor mauris feugiat. Suspendisse hendrerit lacus et massa varius, a ullamcorper ante gravida. Nullam eu varius nibh. Sed ligula nibh, placerat ac tempus quis, semper sed neque. Fusce mollis rutrum libero, nec sodales mauris interdum vel. Maecenas ut mattis nibh. Suspendisse id auctor mauris.",
+            "startDateTime": 1641074400,
+            "endDateTime": 1641076200,
+            "eventImage": "images/image_event5.jpg",
+            "hasRegistration": false,
+            "locationImage": "images/cotter_map_event5.png",
+            "location": "Cotter Union",
+            "eventContact": {
+                "name": "Office of Communications",
+                "address": "4000 Mayflower Hill, Waterville, Maine 04901",
+                "contactEmail": "communications@colby.edu",
+                "phone": "207-859-4000"
+            }
+        }
+    ]
+}
